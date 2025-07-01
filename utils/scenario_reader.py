@@ -1,3 +1,8 @@
+# This file uses code from [scenario-testing-tools]
+# Copyright (c) [Gemb Kaljavesi] [2025]
+# Licensed under the GNU Lesser General Public License v3 (LGPLv3)
+# You can find the original source at: [https://pypi.org/project/scenario-testing-tools]
+
 import numpy as np
 import json
 import zipfile

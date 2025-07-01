@@ -1,5 +1,2 @@
 matplotlib
 numpy
-json
-os
-shutil
